@@ -14,7 +14,7 @@ Requires:
 Run:
 
 ```powershell
-iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/pecigonzalo/Oh-My-Posh/master/install.ps1'))
+iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/ashellwig/Oh-My-Posh/master/install.ps1'))
 ```
 
 Add the following line to your powershell profile:
